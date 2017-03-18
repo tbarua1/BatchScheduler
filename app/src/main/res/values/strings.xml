@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BatchScheduler</string>
+    <string name="scheduled_time">Scheduled Time</string>
+    <string name="scheduled_date" >Scheduled Date</string>
+    <string name="set_schedule">Set Schedule</string>
+    <string name="Time">Time</string>
+    <string name="time">Time</string>
+    <string name="duration">End Time</string>
+</resources>
